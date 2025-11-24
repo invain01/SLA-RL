@@ -70,7 +70,7 @@ class Trainer:
                  update_frequency: int = 2048,
                  eval_frequency: int = 10,
                  eval_episodes: int = 5,
-                 save_frequency: int = 50,
+                 save_frequency: int = 200,
                  log_frequency: int = 1,
                  save_dir: str = './checkpoints'):
         
